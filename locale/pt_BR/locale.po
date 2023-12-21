@@ -85,10 +85,10 @@ msgid "plugins.importexport.crossref.notice.noIsbn"
 msgstr "Observação! Nenhum ISBN disponível. A exportação Crossref usará a seleção 'noisbn'."
 
 msgid "plugins.importexport.crossref.displayName"
-msgstr "Crossref XML Plugin"
+msgstr "Plugin Crossref XML "
 
 msgid "plugins.importexport.crossref.monographsOrChapter"
-msgstr "Monographs / Chapters"
+msgstr ""Monografias / Capítulos""
 
 msgid "plugins.importexport.crossref.cliUsage"
-msgstr "<![CDATA[Usage: {$scriptName} {$pluginName} export [outputFileName] [journal_path] {issues|articles|galleys} objectId1 [objectId2] ... {$scriptName} {$pluginName} register [journal_path] {issues|articles|galleys} objectId1 [objectId2] ...]]>"
+msgstr "<![CDATA[Uso: {$scriptName} {$pluginName} export [outputFileName] [journal_path] {issues|articles|galleys} objectId1 [objectId2] ... {$scriptName} {$pluginName} register [journal_path] {issues|articles|galleys} objectId1 [objectId2] ...]]>"
